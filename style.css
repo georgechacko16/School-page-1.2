@@ -1,0 +1,33 @@
+h1,h2,h3{
+    border: solid;
+    color: #ffffff;
+    background-color: chocolate;
+}
+
+body{
+    background-color: #292c32;
+}
+
+a{
+    color: rgb(255, 245, 255);
+}
+
+.list{
+    text-align: center;
+}
+
+.cats {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.icon{
+    background-color: tomato;
+    text-align: center;
+}
+
+.no{
+    text-align: center;
+}
+
